@@ -1,0 +1,5 @@
+alias bi="bower install"
+alias ni="npm install"
+alias ns="npm start"
+alias nr="npm run"
+alias nmon="nodemon"

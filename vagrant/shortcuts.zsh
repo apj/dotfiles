@@ -1,0 +1,6 @@
+alias vssh="vagrant ssh"
+alias vup="vagrant up"
+alias vdown="vagrant suspend"
+alias vr="vagrant reload"
+alias vp="vagrant provision"
+alias vdest="vagrant destroy"
