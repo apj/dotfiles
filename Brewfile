@@ -74,6 +74,7 @@ cask 'sidestep'               # Background traffic securing (http://chetansurpur
 cask 'sizeup'
 cask 'sketch'
 cask 'skitch'
+cask 'sonarr' 		      # SickBeard alternative
 cask 'spotify'
 cask 'sonos'
 cask 'sublime-text'
