@@ -7,7 +7,6 @@ cask 'java'
 
 # Install formulas
 brew 'ack'
-brew 'android-sdk'
 brew 'ansible'
 brew 'bash'
 brew 'coreutils'
@@ -27,7 +26,6 @@ brew 'youtube-dl'
 
 cask '1password'
 cask 'adapter'                # Video, audio, image converter (http://www.macroplant.com/adapter/)
-cask 'android-studio'
 cask 'atom'
 cask 'awareness'              # Awareness of time spent on computer (http://iamfutureproof.com/tools/awareness/)
 cask 'base'                   # SQLite DB inspector
@@ -75,7 +73,6 @@ cask 'recordit'               # Quick and free screencasts (http://recordit.co)
 cask 'sabnzbd'
 cask 'slack'
 cask 'sequel-pro'
-cask 'shiori'
 cask 'sidestep'               # Background traffic securing (http://chetansurpur.com/projects/sidestep/)
 cask 'sizeup'
 cask 'skitch'
@@ -86,7 +83,6 @@ cask 'the-unarchiver'
 cask 'transmit'
 cask 'transmission'
 cask 'tunnelbear'
-cask 'typora'                 # Minimal Markdown editor (http://www.typora.io)
 cask 'vagrant'
 cask 'virtualbox'
 cask 'vlc'
