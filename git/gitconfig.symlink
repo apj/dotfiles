@@ -35,3 +35,7 @@
 	submodule = log
 [fetch]
 	recurseSubmodules = on-demand
+	prune = true
+[user]
+	name = Allan Jones
+	email = allanpauljones@gmail.com
