@@ -15,6 +15,7 @@ brew 'gradle'
 brew 'grc'                    # Generic colouriser (http://korpus.juls.savba.sk/~garabik/software/grc.html)
 brew 'heroku-toolbelt'
 brew 'hub'
+brew 'mas'
 brew 'mysql'
 brew 'node'
 brew 'rbenv'
