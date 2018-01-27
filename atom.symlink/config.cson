@@ -1,4 +1,7 @@
 "*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "ff65042f-cc21-4871-bc63-b13d37e9d45f"
   core:
     disabledPackages: [
       "background-tips"
@@ -28,7 +31,6 @@
     ]
   editor:
     fontFamily: "Source Code Pro"
-    fontSize: 18
     invisibles: {}
     showIndentGuide: true
     softWrapAtPreferredLineLength: true
