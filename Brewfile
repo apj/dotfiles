@@ -10,6 +10,7 @@ brew 'ack'
 brew 'ansible'
 brew 'bash'
 brew 'coreutils'
+brew 'dockutils'
 brew 'git'
 brew 'gradle'
 brew 'grc'                    # Generic colouriser (http://korpus.juls.savba.sk/~garabik/software/grc.html)
@@ -37,6 +38,7 @@ cask 'colorpicker-developer'
 cask 'colorpicker-skalacolor' # From Bjango
 cask 'commandq'
 cask 'dash'
+cask 'dropbox'
 cask 'firefox'
 cask 'flux'
 cask 'gas-mask'               # Edit host file

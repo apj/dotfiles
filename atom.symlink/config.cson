@@ -34,6 +34,7 @@
     invisibles: {}
     showIndentGuide: true
     softWrapAtPreferredLineLength: true
+    tabLength: 4
   linter:
     errorPanelHeight: 46
   "linter-eslint":
